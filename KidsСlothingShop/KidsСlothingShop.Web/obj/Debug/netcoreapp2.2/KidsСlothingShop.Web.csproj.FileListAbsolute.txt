@@ -1,0 +1,14 @@
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\bin\Debug\netcoreapp2.2\KidsСlothingShop.Web.deps.json
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\bin\Debug\netcoreapp2.2\KidsСlothingShop.Web.runtimeconfig.json
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\bin\Debug\netcoreapp2.2\KidsСlothingShop.Web.runtimeconfig.dev.json
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\bin\Debug\netcoreapp2.2\KidsСlothingShop.Web.dll
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\bin\Debug\netcoreapp2.2\KidsСlothingShop.Web.pdb
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.csprojAssemblyReference.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.csproj.CoreCompileInputs.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.RazorAssemblyInfo.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.RazorAssemblyInfo.cs
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.AssemblyInfoInputs.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.AssemblyInfo.cs
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.RazorTargetAssemblyInfo.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.dll
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Web\obj\Debug\netcoreapp2.2\KidsСlothingShop.Web.pdb

@@ -1,0 +1,9 @@
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\bin\Debug\netcoreapp2.2\KidsСlothingShop.Data.deps.json
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\bin\Debug\netcoreapp2.2\KidsСlothingShop.Data.dll
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\bin\Debug\netcoreapp2.2\KidsСlothingShop.Data.pdb
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\obj\Debug\netcoreapp2.2\KidsСlothingShop.Data.csprojAssemblyReference.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\obj\Debug\netcoreapp2.2\KidsСlothingShop.Data.csproj.CoreCompileInputs.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\obj\Debug\netcoreapp2.2\KidsСlothingShop.Data.AssemblyInfoInputs.cache
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\obj\Debug\netcoreapp2.2\KidsСlothingShop.Data.AssemblyInfo.cs
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\obj\Debug\netcoreapp2.2\KidsСlothingShop.Data.dll
+C:\Works\Shop\KidsСlothingShop\KidsСlothingShop.Data\obj\Debug\netcoreapp2.2\KidsСlothingShop.Data.pdb
